@@ -1,10 +1,10 @@
 /**
- * 根据所提供的顺序数组，返回按属性排序的已排序的对象数组。
+ * 根据所提供的顺序数组，返回按属性排序的已排序的对象数组
  *
- * @param {Array} arr 源数组
+ * @param {any[]} arr 源数组
  * @param {String} prop 字段
- * @param {Array} order 顺序数组
- * @returns {Array} 返回已排序好的数组
+ * @param {any[]} order 顺序数组
+ * @returns {any[]} 返回已排序好的数组
  */
 const orderWith = (arr, prop, order) => {
   const orderValues = order.reduce((acc, v, i) => {

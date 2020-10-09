@@ -1,10 +1,10 @@
 /**
  * 组合两个对象数组，使用指定的键来匹配对象
  *
- * @param {Array} a 源数组1
- * @param {Array} b 源数组2
+ * @param {any[]} a 源数组1
+ * @param {any[]} b 源数组2
  * @param {String} prop 指定键
- * @returns {Array} 返回连接后的新数组
+ * @returns {any[]} 返回连接后的新数组
  */
 const combine = (a, b, prop) =>
   Object.values(
