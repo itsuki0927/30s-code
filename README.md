@@ -31,3 +31,13 @@
 13. allEqual: 检查数组中的所有元素是否相等
 
 14. any: 验证数组中是否有一个元素通过验证函数
+
+15. compact: 过滤数组中的 falsy 值
+
+16. difference: 两个数组之间的差
+
+## Math
+
+1. and: 判断两个参数是不是都是真值
+
+2. accumulate: 计算部分和
