@@ -7,9 +7,9 @@
  *
  */
 const arithmeticProgression = (n, lim) =>
-  Array.from({ length: Math.ceil(lim / n) }, (v, i) => (i + 1) * n);
+  Array.from({ length: Math.ceil(lim / n) }, (v, i) => (i + 1) * n)
 
 // example
-const arithmeticProgressionResult = arithmeticProgression(5, 25);
-console.log("arithmeticProgressionResult:", arithmeticProgressionResult);
+const arithmeticProgressionResult = arithmeticProgression(5, 25)
+console.log('arithmeticProgressionResult:', arithmeticProgressionResult)
 // [5, 10, 15, 20, 25]
