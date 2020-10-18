@@ -5,10 +5,12 @@
  * @returns {number[]} 指定长度的斐波那契数列
  */
 const fibonacci = n =>
-  Array.from({ length: n }).reduce(
-    (acc, val, i) => acc.concat(i > 1 ? acc[i - 1] + acc[i - 2] : i),
-    [],
-  )
+  array
+    .from({ length: n })
+    .reduce(
+      (acc, val, i) => acc.concat(i > 1 ? acc[i - 1] + acc[i - 2] : i),
+      [],
+    )
 
 // example
 const fibonacciResult = fibonacci(6)
