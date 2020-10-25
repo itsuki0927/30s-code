@@ -1,6 +1,6 @@
 # 30s-code
 
-30scode 学习笔记
+30s-code 学习笔记
 
 ## Array
 
@@ -55,6 +55,10 @@
 25. filterNonUnique: 过滤掉非唯一值,并返回一个新数组
 
 26. findLast: 查找提供的函数为其返回真值的最后一个元素
+
+27. head: 返回数组的头元素
+
+28. includesAll: 检查values中的所有元素是否都包含在arr中
 
 ## Math
 
