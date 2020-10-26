@@ -60,6 +60,10 @@
 
 28. includesAll: 检查values中的所有元素是否都包含在arr中
 
+29. includesAny: 检查arr中是否包含至少一个values中的元素
+
+30. initial: 返回数组中除最后一个元素之外的所有元素
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
