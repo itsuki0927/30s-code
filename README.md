@@ -76,6 +76,12 @@
 
 36. none: 检查提供的谓词函数是否对集合中的所有元素返回false
 
+37. nthElement: 返回数组的第n个元素
+
+38. objectFromPairs: 根据给定的键值对创建一个对象
+
+39. objectToEntries: 从一个对象创建一个键-值对数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
