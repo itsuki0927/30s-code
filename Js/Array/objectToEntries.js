@@ -1,7 +1,7 @@
 /**
  * 从一个对象创建一个键-值对数组
  *
- * @param {any} ob 源数据
+ * @param {any} obj 源数据
  * @returns {any[][]} key-value数组
  */
 const objectToEntries = obj => Object.keys(obj).map(k => [k, obj[k]])
