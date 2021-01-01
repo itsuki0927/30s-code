@@ -126,6 +126,10 @@
 
 61. chunk: 将一个数组分成指定大小的较小数组
 
+62. binarySearch: 二分查找
+
+63. bubbleSort: 冒泡排序
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
