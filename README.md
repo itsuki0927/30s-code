@@ -130,6 +130,10 @@
 
 63. bubbleSort: 冒泡排序
 
+64. linearSearch: 线性搜索算法查找数组中给定元素的第一个索引 
+
+65. bucketSort: 桶排序
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
