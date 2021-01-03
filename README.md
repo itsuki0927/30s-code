@@ -134,6 +134,10 @@
 
 65. bucketSort: 桶排序
 
+66. chunkIntoN: 将一个数组分成n个较小的数组
+
+67. collectInto: 将接受数组的函数更改为可变函数
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
