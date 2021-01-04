@@ -130,13 +130,17 @@
 
 63. bubbleSort: 冒泡排序
 
-64. linearSearch: 线性搜索算法查找数组中给定元素的第一个索引 
+64. linearSearch: 线性搜索算法查找数组中给定元素的第一个索引
 
 65. bucketSort: 桶排序
 
 66. chunkIntoN: 将一个数组分成n个较小的数组
 
 67. collectInto: 将接受数组的函数更改为可变函数
+
+68. countOccurrences: 计算数组中某个值的出现次数
+
+69. CSVToArray: 将逗号分隔值（CSV）字符串转换为2D数组
 
 ## Math
 
