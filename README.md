@@ -158,6 +158,10 @@
 
 77. findLastIndex: 查找提供的函数为其返回真值的最后一个元素的索引
 
+78. flatten: 数组扁平化
+
+79. forEachRight: 反向forEach
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
