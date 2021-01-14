@@ -162,6 +162,10 @@
 
 79. forEachRight: 反向forEach
 
+80. frequencies: 创建一个对象，将数组的唯一值作为键，并将其频率作为值
+
+81. frozenSet: 创建一个冻结的Set对象
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
