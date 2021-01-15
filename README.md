@@ -166,6 +166,10 @@
 
 81. frozenSet: 创建一个冻结的Set对象
 
+82. generateItems: 使用给定的函数生成具有给定数量的项的数组
+
+83. haveSameContents: 检查两个数组是否包含相同的元素，而不管顺序如何
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
