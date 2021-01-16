@@ -170,6 +170,10 @@
 
 83. haveSameContents: 检查两个数组是否包含相同的元素，而不管顺序如何
 
+84. indexOfAll: 查找数组中val的所有索引。 如果val从不发生，则返回一个空数组
+
+85. initial2DArray: 初始化给定宽度，高度和值的2维数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
