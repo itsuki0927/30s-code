@@ -174,6 +174,10 @@
 
 85. initial2DArray: 初始化给定宽度，高度和值的2维数组
 
+86. initializeArrayWithRange: 初始化一个数组，该数组包含指定范围内的数字，其中开始和结束包括其共同差值步骤
+
+87. initializeArrayWithRangeRight: 初始化一个数组，该数组包含指定范围内的数字（反向），其中开始和结束包含其共同差值步骤
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
