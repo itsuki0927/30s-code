@@ -5,7 +5,7 @@
  * @param {(item:any)=>any} fn 映射value的函数
  * @returns 返回对象
  */
-const mapObject = (arr, fn) => arr.reduce((acc, k) => ((acc[k] = fn(k)), acc), {})
+const mapObject = (arr, fn) => arr.reduce((acc, k, i) => ((acc[k] = fn(k, i, arr)), acc), {})
 
 // example
 const mapObjectResult = mapObject([1, 2, 3], a => a * a)
