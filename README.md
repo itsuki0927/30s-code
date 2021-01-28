@@ -198,6 +198,10 @@
 
 97. mergeSortedArrays: 将两个排序数组合并为一个
 
+98. minN: 返回数组中的n个最小元素
+
+99. mostFrequent: 返回数组中最频繁的元素
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值

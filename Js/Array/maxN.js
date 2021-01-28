@@ -5,7 +5,7 @@
  * @param {number} n n个元素
  * returns {number[]}
  */
-const maxN = (arr, n = 1) => [...arr].sort((a, b) => a - b).slice(0, n)
+const maxN = (arr, n = 1) => [...arr].sort((a, b) => b - a).slice(0, n)
 
 // example
 maxN([1, 2, 3]) // [3]
