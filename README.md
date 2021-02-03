@@ -218,6 +218,10 @@
 
 107. selectionSort: 选择排序
 
+108. shank: splice实现
+
+109. shuffle: 数组乱序
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
