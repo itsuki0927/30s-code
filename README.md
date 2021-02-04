@@ -222,6 +222,10 @@
 
 109. shuffle: 数组乱序
 
+110. size: 获取array、object、string的长度
+
+111. sortedIndex: 查找应将值插入数组以保持其排序顺序的最低索引
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
