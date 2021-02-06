@@ -230,6 +230,12 @@
 
 113. sortedLastIndex: 查找应将值插入数组以保持其排序顺序的最高索引
 
+114. sortedLastIndexBy: 根据提供的迭代器函数，找到一个值，该值应插入数组以保持其排序顺序的最高索引
+
+115. standardDeviation: TODO
+
+116. subSet: 检查第一个可迭代对象是否是第二个可迭代对象的子集，不包括重复值
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
