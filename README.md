@@ -264,6 +264,10 @@
 
 130. uniqueElementsByRight: 从右侧开始，根据提供的比较器函数查找数组的所有唯一值
 
+131. uniqueSymmetricDifference: 返回两个数组之间的唯一对称差异，不包含两个数组中的重复值
+
+132. unzip: 创建一个数组数组，将zip产生的数组中的元素取消分组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
