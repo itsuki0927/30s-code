@@ -290,6 +290,12 @@
 
 143. zipWith: 创建一个元素数组，根据原始数组中的位置分组，并使用一个函数指定分组后的值应该如何组合
 
+## Browser
+
+1. getURLParameters: 创建一个包含当前URL参数的对象
+
+2. addClass: 将类添加到HTML元素
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
