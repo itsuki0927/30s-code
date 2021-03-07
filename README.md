@@ -296,6 +296,10 @@
 
 2. addClass: 将类添加到HTML元素
 
+3. addMultipleListeners: 将具有相同处理程序的多个事件侦听器添加到元素
+
+4. addStyles: 将提供的样式添加到给定的元素
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
