@@ -300,6 +300,10 @@
 
 4. addStyles: 将提供的样式添加到给定的元素
 
+5. bottomVisible: 检查页面底部是否可见
+
+6. createElement: 创建元素
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
