@@ -304,6 +304,10 @@
 
 6. createElement: 创建元素
 
+7. currentURL: url
+
+8. elementIsFocused: 判断元素是否有焦点
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
