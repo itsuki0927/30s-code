@@ -308,6 +308,10 @@
 
 8. elementIsFocused: 判断元素是否有焦点
 
+9. arrayToHTMLList: 将给定的数组元素转换为`<li>`标记，并将它们附加到给定id的列表中
+
+10. changeLightness: 更改hsl（）颜色字符串的亮度值
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
