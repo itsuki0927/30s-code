@@ -317,3 +317,7 @@
 1. and: 判断两个参数是不是都是真值
 
 2. accumulate: 计算部分和
+
+3. copyToClipboard: 将字符串复制到剪贴板
+
+4. getAncestors: 返回从文档根到给定元素的元素的所有祖先
