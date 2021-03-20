@@ -321,3 +321,7 @@
 3. copyToClipboard: 将字符串复制到剪贴板
 
 4. getAncestors: 返回从文档根到给定元素的元素的所有祖先
+
+5. getBaseURL: 获取基本路径
+
+6. getProtocol: 获取协议
