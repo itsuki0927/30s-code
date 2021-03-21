@@ -316,17 +316,17 @@
 
 12. hasClass: 判断el是否有指定className类
 
+13. copyToClipboard: 将字符串复制到剪贴板
+
+14. getAncestors: 返回从文档根到给定元素的元素的所有祖先
+
+15. getBaseURL: 获取基本路径
+
+16. getProtocol: 获取协议
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
 
 2. accumulate: 计算部分和
-
-3. copyToClipboard: 将字符串复制到剪贴板
-
-4. getAncestors: 返回从文档根到给定元素的元素的所有祖先
-
-5. getBaseURL: 获取基本路径
-
-6. getProtocol: 获取协议
 
