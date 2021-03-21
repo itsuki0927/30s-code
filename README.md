@@ -312,6 +312,10 @@
 
 10. changeLightness: 更改hsl（）颜色字符串的亮度值
 
+11. getVerticalOffset: 查找从给定元素到文档顶部的距离
+
+12. hasClass: 判断el是否有指定className类
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
@@ -325,3 +329,4 @@
 5. getBaseURL: 获取基本路径
 
 6. getProtocol: 获取协议
+
