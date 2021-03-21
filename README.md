@@ -324,6 +324,10 @@
 
 16. getProtocol: 获取协议
 
+17. hide: hide
+
+18. insertAfter: 在指定元素的末尾插入HTML字符串
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
