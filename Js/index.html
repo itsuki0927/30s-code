@@ -4,11 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <script src="./Array/chunk.js"></script>
+    <script src="./Browser/listenOnce.js"></script>
   </head>
   <body>
+    <button id="test">test</button>
     <script>
-      console.log(chunk([1, 2, 3, 4, 5], 2))
+      const button = document.getElementById('test')
+      listenOnce(button, 'click', () => {
+        console.log('only once')
+      })
     </script>
   </body>
 </html>

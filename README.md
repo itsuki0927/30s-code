@@ -332,6 +332,10 @@
 
 20. isBrowserTabFocused: 检查页面的浏览器选项卡是否聚焦
 
+21. listenOnce: 将事件侦听器添加到仅在首次触发事件时才运行回调的元素
+
+22. nodeListToArray: 类数组->数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
