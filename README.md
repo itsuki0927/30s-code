@@ -328,6 +328,10 @@
 
 18. insertAfter: 在指定元素的末尾插入HTML字符串
 
+19. insertBefore: 在指定元素的前面HTML字符串
+
+20. isBrowserTabFocused: 检查页面的浏览器选项卡是否聚焦
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
