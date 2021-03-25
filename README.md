@@ -336,6 +336,10 @@
 
 22. nodeListToArray: 类数组->数组
 
+23. redirect: 重定向
+
+24. removeClass: 移除指定className
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
