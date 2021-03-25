@@ -340,6 +340,10 @@
 
 24. removeClass: 移除指定className
 
+25. removeElement: 移除dom节点
+
+26. setStyle: 设置style
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
