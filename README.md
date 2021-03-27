@@ -344,6 +344,10 @@
 
 26. setStyle: 设置style
 
+27. show: 显示指定的所有元素
+
+28. supportsTouchEvents: 是否支持touch事件
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
