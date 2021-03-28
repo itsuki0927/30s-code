@@ -348,6 +348,10 @@
 
 28. supportsTouchEvents: 是否支持touch事件
 
+29. toggleClass: 切换HTML元素的class
+
+30. toHSLArray: 将hsl（）颜色字符串转换为值数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
