@@ -352,6 +352,10 @@
 
 30. toHSLArray: 将hsl（）颜色字符串转换为值数组
 
+31. toRGBArray: 将 rgb() 颜色字符串转换为值数组
+
+32. unescapeHTML: 转义HTML
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
