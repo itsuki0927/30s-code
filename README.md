@@ -356,6 +356,10 @@
 
 32. unescapeHTML: 转义HTML
 
+33. detectDeviceType: 检查页面在哪个设备
+
+34. detectLanguage: 检查页面在哪个设备
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
