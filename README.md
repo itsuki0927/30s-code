@@ -360,6 +360,10 @@
 
 34. detectLanguage: 检查页面在哪个设备
 
+35. elementContains: 检查父元素是否包含子元素
+
+36. elementIsVisibleInViewport: 检查指定的元素在视口中是否可见
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
