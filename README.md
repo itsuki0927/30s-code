@@ -364,6 +364,10 @@
 
 36. elementIsVisibleInViewport: 检查指定的元素在视口中是否可见
 
+37. escapeHTML: 转义HTML
+
+38. formToObject: 将一组表单元素编码为一个对象
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
