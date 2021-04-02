@@ -368,6 +368,10 @@
 
 38. formToObject: 将一组表单元素编码为一个对象
 
+39. fullscreen: 全屏模式打开或关闭元素
+
+40. getElementsBiggerThanViewport: 返回宽度大于视口宽度的HTML元素数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
