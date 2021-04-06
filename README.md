@@ -372,6 +372,10 @@
 
 40. getElementsBiggerThanViewport: 返回宽度大于视口宽度的HTML元素数组
 
+41. getImages: 从一个元素中获取所有图像，并将它们放入一个数组中
+
+42. getParentsUntil: 查找元素的所有祖先，直到该元素与指定选择器匹配为止
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
