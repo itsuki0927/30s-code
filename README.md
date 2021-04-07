@@ -58,9 +58,9 @@
 
 27. head: 返回数组的头元素
 
-28. includesAll: 检查values中的所有元素是否都包含在arr中
+28. includesAll: 检查 values 中的所有元素是否都包含在 arr 中
 
-29. includesAny: 检查arr中是否包含至少一个values中的元素
+29. includesAny: 检查 arr 中是否包含至少一个 values 中的元素
 
 30. initial: 返回数组中除最后一个元素之外的所有元素
 
@@ -74,9 +74,9 @@
 
 35. nodeListToArray: 类数组->数组
 
-36. none: 检查提供的谓词函数是否对集合中的所有元素返回false
+36. none: 检查提供的谓词函数是否对集合中的所有元素返回 false
 
-37. nthElement: 返回数组的第n个元素
+37. nthElement: 返回数组的第 n 个元素
 
 38. objectFromPairs: 根据给定的键值对创建一个对象
 
@@ -88,7 +88,7 @@
 
 42. pluck: 将对象数组转换为与指定键对应的值数组
 
-43. reject: 根据谓词函数过滤数组的值，仅返回谓词函数返回false的值
+43. reject: 根据谓词函数过滤数组的值，仅返回谓词函数返回 false 的值
 
 44. sample: 从数组中获取随机元素
 
@@ -98,9 +98,9 @@
 
 47. tail: 返回数组中除第一个元素外的所有元素
 
-48. take: 创建一个数组，其中从头开始删除了n个元素
+48. take: 创建一个数组，其中从头开始删除了 n 个元素
 
-49. union: 返回存在于两个数组中的任何一个中的每个元素至少一次 
+49. union: 返回存在于两个数组中的任何一个中的每个元素至少一次
 
 50. uniqueElements: 查找数组中的所有唯一值
 
@@ -112,11 +112,11 @@
 
 54. allUniqueBy: 根据提供的映射函数，检查数组中的所有元素是否唯一
 
-55. aperture: 创建由连续元素组成的n元组数组
+55. aperture: 创建由连续元素组成的 n 元组数组
 
 56. arrayToCSV: 将二维数组转换为逗号分隔值（CSV）字符串
 
-57. arrayToHTMLList: 将给定的数组元素转换为<li>标记，并将它们附加到给定id的列表中
+57. arrayToHTMLList: 将给定的数组元素转换为<li>标记，并将它们附加到给定 id 的列表中
 
 58. averageBy: 使用提供的函数将每个元素映射到一个值后，计算数组的平均值
 
@@ -134,23 +134,23 @@
 
 65. bucketSort: 桶排序
 
-66. chunkIntoN: 将一个数组分成n个较小的数组
+66. chunkIntoN: 将一个数组分成 n 个较小的数组
 
 67. collectInto: 将接受数组的函数更改为可变函数
 
 68. countOccurrences: 计算数组中某个值的出现次数
 
-69. CSVToArray: 将逗号分隔值（CSV）字符串转换为2D数组
+69. CSVToArray: 将逗号分隔值（CSV）字符串转换为 2D 数组
 
 70. deepFlatten: 数组扁平化
 
 71. differenceBy: 将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的差
 
-72. differenceWith: 从比较器函数未返回true的数组中筛选出所有值
+72. differenceWith: 从比较器函数未返回 true 的数组中筛选出所有值
 
-73. dropRightWhile: 从数组末尾删除元素，直到传递的函数返回true，返回数组中剩余的元素
+73. dropRightWhile: 从数组末尾删除元素，直到传递的函数返回 true，返回数组中剩余的元素
 
-74. dropWhile: 删除数组中的元素，直到传递的函数返回true，返回数组中剩余的元素
+74. dropWhile: 删除数组中的元素，直到传递的函数返回 true，返回数组中剩余的元素
 
 75. filterNonUniqueBy: 基于提供的比较器函数，创建一个过滤了非唯一值的数组
 
@@ -160,19 +160,19 @@
 
 78. flatten: 数组扁平化
 
-79. forEachRight: 反向forEach
+79. forEachRight: 反向 forEach
 
 80. frequencies: 创建一个对象，将数组的唯一值作为键，并将其频率作为值
 
-81. frozenSet: 创建一个冻结的Set对象
+81. frozenSet: 创建一个冻结的 Set 对象
 
 82. generateItems: 使用给定的函数生成具有给定数量的项的数组
 
 83. haveSameContents: 检查两个数组是否包含相同的元素，而不管顺序如何
 
-84. indexOfAll: 查找数组中val的所有索引。 如果val从不发生，则返回一个空数组
+84. indexOfAll: 查找数组中 val 的所有索引。 如果 val 从不发生，则返回一个空数组
 
-85. initial2DArray: 初始化给定宽度，高度和值的2维数组
+85. initial2DArray: 初始化给定宽度，高度和值的 2 维数组
 
 86. initializeArrayWithRange: 初始化一个数组，该数组包含指定范围内的数字，其中开始和结束包括其共同差值步骤
 
@@ -188,9 +188,9 @@
 
 92. join: 将数组的所有元素连接到字符串中并返回此字符串。 使用分隔符和结尾分隔符
 
-93. longestItem: 接受任意数量的可迭代对象或具有length属性的对象，并返回最长的对象
+93. longestItem: 接受任意数量的可迭代对象或具有 length 属性的对象，并返回最长的对象
 
-94. maxN: 返回数组中的n个最大元素
+94. maxN: 返回数组中的 n 个最大元素
 
 95. median: 中位数
 
@@ -198,7 +198,7 @@
 
 97. mergeSortedArrays: 将两个排序数组合并为一个
 
-98. minN: 返回数组中的n个最小元素
+98. minN: 返回数组中的 n 个最小元素
 
 99. mostFrequent: 返回数组中最频繁的元素
 
@@ -212,17 +212,17 @@
 
 104. reduceWhich: 在应用提供的函数设置比较规则之后，返回数组的最小值/最大值
 
-105. remove: 通过删除给定函数返回false的元素来改变数组
+105. remove: 通过删除给定函数返回 false 的元素来改变数组
 
-106. sampleSize: 从数组中获取唯一键处的n个随机元素，最大为数组的大小
+106. sampleSize: 从数组中获取唯一键处的 n 个随机元素，最大为数组的大小
 
 107. selectionSort: 选择排序
 
-108. shank: splice实现
+108. shank: splice 实现
 
 109. shuffle: 数组乱序
 
-110. size: 获取array、object、string的长度
+110. size: 获取 array、object、string 的长度
 
 111. sortedIndex: 查找应将值插入数组以保持其排序顺序的最低索引
 
@@ -242,11 +242,11 @@
 
 119. symmetricDifferenceWith: 使用提供的函数作为比较器，返回两个数组之间的对称差
 
-120. takeRight: 创建一个从末尾删除n个元素的数组
+120. takeRight: 创建一个从末尾删除 n 个元素的数组
 
-121. takeUntil: 删除数组中的元素，直到传递的函数返回true。 返回移除的元素
+121. takeUntil: 删除数组中的元素，直到传递的函数返回 true。 返回移除的元素
 
-122. takeWhile: 删除数组中的元素，直到传递的函数返回false。 返回移除的元素
+122. takeWhile: 删除数组中的元素，直到传递的函数返回 false。 返回移除的元素
 
 123. toHash: 将给定的数组简化为值哈希（键控数据存储）
 
@@ -266,7 +266,7 @@
 
 131. uniqueSymmetricDifference: 返回两个数组之间的唯一对称差异，不包含两个数组中的重复值
 
-132. unzip: 创建一个数组数组，将zip产生的数组中的元素取消分组
+132. unzip: 创建一个数组数组，将 zip 产生的数组中的元素取消分组
 
 133. xProd: 通过从阵列中创建每个可能的对，在提供的两个阵列中创建一个新阵列
 
@@ -280,7 +280,7 @@
 
 138. orderBy: 按属性和顺序对对象数组进行排序
 
-139. partitionBy: 将fn应用于arr中的每个值，每次提供的函数返回新值时将其拆分
+139. partitionBy: 将 fn 应用于 arr 中的每个值，每次提供的函数返回新值时将其拆分
 
 140. permutations: 全排列
 
@@ -292,9 +292,9 @@
 
 ## Browser
 
-1. getURLParameters: 创建一个包含当前URL参数的对象
+1. getURLParameters: 创建一个包含当前 URL 参数的对象
 
-2. addClass: 将类添加到HTML元素
+2. addClass: 将类添加到 HTML 元素
 
 3. addMultipleListeners: 将具有相同处理程序的多个事件侦听器添加到元素
 
@@ -308,13 +308,13 @@
 
 8. elementIsFocused: 判断元素是否有焦点
 
-9. arrayToHTMLList: 将给定的数组元素转换为`<li>`标记，并将它们附加到给定id的列表中
+9. arrayToHTMLList: 将给定的数组元素转换为`<li>`标记，并将它们附加到给定 id 的列表中
 
-10. changeLightness: 更改hsl（）颜色字符串的亮度值
+10. changeLightness: 更改 hsl（）颜色字符串的亮度值
 
 11. getVerticalOffset: 查找从给定元素到文档顶部的距离
 
-12. hasClass: 判断el是否有指定className类
+12. hasClass: 判断 el 是否有指定 className 类
 
 13. copyToClipboard: 将字符串复制到剪贴板
 
@@ -326,9 +326,9 @@
 
 17. hide: hide
 
-18. insertAfter: 在指定元素的末尾插入HTML字符串
+18. insertAfter: 在指定元素的末尾插入 HTML 字符串
 
-19. insertBefore: 在指定元素的前面HTML字符串
+19. insertBefore: 在指定元素的前面 HTML 字符串
 
 20. isBrowserTabFocused: 检查页面的浏览器选项卡是否聚焦
 
@@ -338,23 +338,23 @@
 
 23. redirect: 重定向
 
-24. removeClass: 移除指定className
+24. removeClass: 移除指定 className
 
-25. removeElement: 移除dom节点
+25. removeElement: 移除 dom 节点
 
-26. setStyle: 设置style
+26. setStyle: 设置 style
 
 27. show: 显示指定的所有元素
 
-28. supportsTouchEvents: 是否支持touch事件
+28. supportsTouchEvents: 是否支持 touch 事件
 
-29. toggleClass: 切换HTML元素的class
+29. toggleClass: 切换 HTML 元素的 class
 
-30. toHSLArray: 将hsl（）颜色字符串转换为值数组
+30. toHSLArray: 将 hsl（）颜色字符串转换为值数组
 
 31. toRGBArray: 将 rgb() 颜色字符串转换为值数组
 
-32. unescapeHTML: 转义HTML
+32. unescapeHTML: 转义 HTML
 
 33. detectDeviceType: 检查页面在哪个设备
 
@@ -364,13 +364,13 @@
 
 36. elementIsVisibleInViewport: 检查指定的元素在视口中是否可见
 
-37. escapeHTML: 转义HTML
+37. escapeHTML: 转义 HTML
 
 38. formToObject: 将一组表单元素编码为一个对象
 
 39. fullscreen: 全屏模式打开或关闭元素
 
-40. getElementsBiggerThanViewport: 返回宽度大于视口宽度的HTML元素数组
+40. getElementsBiggerThanViewport: 返回宽度大于视口宽度的 HTML 元素数组
 
 41. getImages: 从一个元素中获取所有图像，并将它们放入一个数组中
 
@@ -381,4 +381,3 @@
 1. and: 判断两个参数是不是都是真值
 
 2. accumulate: 计算部分和
-
