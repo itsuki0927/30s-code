@@ -376,6 +376,10 @@
 
 42. getParentsUntil: 查找元素的所有祖先，直到该元素与指定选择器匹配为止
 
+43. getScrollPosition: 返回当前页面的滚动位置
+
+44. getSiblings: 返回一个包含给定元素的所有兄弟元素的数组
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
