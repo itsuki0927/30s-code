@@ -380,6 +380,14 @@
 
 44. getSiblings: 返回一个包含给定元素的所有兄弟元素的数组
 
+45. httpGet: get request
+
+46. httpPost: post request
+
+47. httpPut: put request
+
+48. httpDelete: delete request
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
