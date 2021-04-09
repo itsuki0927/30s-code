@@ -388,6 +388,10 @@
 
 48. httpDelete: delete request
 
+49. httpsRedirect: 如果它目前在http,重定向页面到https
+
+50. injectCSS: 注入css
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
