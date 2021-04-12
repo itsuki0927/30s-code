@@ -396,6 +396,10 @@
 
 52. isBrowser: 是否为浏览器环境
 
+53. isLocalStorageEnabled: 是否可以使用 localStorage
+
+54. isNode: 是否为 node 环境
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
