@@ -392,6 +392,10 @@
 
 50. injectCSS: 注入css
 
+51. isAbsoluteURL: 是否为绝对路径
+
+52. isBrowser: 是否为浏览器环境
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
