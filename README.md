@@ -400,6 +400,10 @@
 
 54. isNode: 是否为 node 环境
 
+55. isSessionStorageEnabled: 是否可以使用 sessionStorage 
+
+56. off: 从元素中移除事件侦听器
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
