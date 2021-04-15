@@ -408,6 +408,10 @@
 
 58. onClickOutside: 每当用户单击指定元素之外时，运行回调
 
+59. onScrollTop: 滚动事件停止后执行回调函数
+
+60. parseCookie: cookie字符串转换为对象
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
