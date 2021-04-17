@@ -388,9 +388,9 @@
 
 48. httpDelete: delete request
 
-49. httpsRedirect: 如果它目前在http,重定向页面到https
+49. httpsRedirect: 如果它目前在 http,重定向页面到 https
 
-50. injectCSS: 注入css
+50. injectCSS: 注入 css
 
 51. isAbsoluteURL: 是否为绝对路径
 
@@ -400,7 +400,7 @@
 
 54. isNode: 是否为 node 环境
 
-55. isSessionStorageEnabled: 是否可以使用 sessionStorage 
+55. isSessionStorageEnabled: 是否可以使用 sessionStorage
 
 56. off: 从元素中移除事件侦听器
 
@@ -410,7 +410,11 @@
 
 59. onScrollTop: 滚动事件停止后执行回调函数
 
-60. parseCookie: cookie字符串转换为对象
+60. parseCookie: cookie 字符串转换为对象
+
+61. prefersDarkColorScheme: 检查用户配色方案是深色
+
+62. prefersLightColorScheme: 检查用户配色方案是否为浅色
 
 ## Math
 
