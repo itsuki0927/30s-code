@@ -416,6 +416,10 @@
 
 62. prefersLightColorScheme: 检查用户配色方案是否为浅色
 
+63. prefix: 基于当前浏览器的CSS属性的前缀
+
+64. recordAnimationFrames: 在每个动画帧上调用提供的回调
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
