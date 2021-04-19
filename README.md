@@ -420,6 +420,10 @@
 
 64. recordAnimationFrames: 在每个动画帧上调用提供的回调
 
+65. scrollToTop: 滚动到顶部
+
+66. serializeCookie: 将Cookie名称/值对序列化为Set-Cookie标头字符串
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
