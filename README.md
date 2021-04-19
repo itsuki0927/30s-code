@@ -416,13 +416,17 @@
 
 62. prefersLightColorScheme: 检查用户配色方案是否为浅色
 
-63. prefix: 基于当前浏览器的CSS属性的前缀
+63. prefix: 基于当前浏览器的 CSS 属性的前缀
 
 64. recordAnimationFrames: 在每个动画帧上调用提供的回调
 
 65. scrollToTop: 滚动到顶部
 
-66. serializeCookie: 将Cookie名称/值对序列化为Set-Cookie标头字符串
+66. serializeCookie: 将 Cookie 名称/值对序列化为 Set-Cookie 标头字符串
+
+67. serializeForm: 将一组表单元素编码为查询字符串
+
+68. smoothScroll: 将调用该元素的元素平滑滚动到浏览器窗口的可见区域
 
 ## Math
 
