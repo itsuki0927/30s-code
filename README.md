@@ -432,6 +432,10 @@
 
 70. toRGBObject: 将 rgb（）颜色字符串转换为具有每种颜色值的对象
 
+71. triggerEvent: 在给定元素上触发特定事件，可以选择传递自定义数据
+
+72. UUIDGeneratorBrowser: 浏览器生成 UUID
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
