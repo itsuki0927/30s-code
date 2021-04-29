@@ -436,6 +436,10 @@
 
 72. UUIDGeneratorBrowser: 浏览器生成 UUID
 
+73. counter: 为指定选择器创建具有指定范围、步骤和持续时间的计数器
+
+74. createEventHub: 发布订阅
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
