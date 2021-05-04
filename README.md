@@ -440,6 +440,8 @@
 
 74. createEventHub: 发布订阅
 
+75. observeMutations: 创建一个新的MutationObserver并为指定元素上的每个突变运行提供的回调
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
