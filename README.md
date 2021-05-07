@@ -442,6 +442,10 @@
 
 75. observeMutations: 创建一个新的MutationObserver并为指定元素上的每个突变运行提供的回调
 
+76. renderElement: 在指定的DOM元素中呈现给定的DOM树
+
+77. runAsync: 通过使用Web Worker在单独的线程中运行函数，允许长时间运行的函数不阻塞UI
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
