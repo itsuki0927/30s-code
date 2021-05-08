@@ -446,6 +446,12 @@
 
 77. runAsync: 通过使用Web Worker在单独的线程中运行函数，允许长时间运行的函数不阻塞UI
 
+## Date
+
+1. dayName: 从Date对象获取工作日的名称
+
+2. dayOfYear: 返回该日期在一年中是第多少天
+
 ## Math
 
 1. and: 判断两个参数是不是都是真值
