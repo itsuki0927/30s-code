@@ -290,6 +290,10 @@
 
 143. zipWith: 创建一个元素数组，根据原始数组中的位置分组，并使用一个函数指定分组后的值应该如何组合
 
+144. curry: 函数柯里化
+
+145. compose: 函数组合
+
 ## Browser
 
 1. getURLParameters: 创建一个包含当前 URL 参数的对象
@@ -440,21 +444,21 @@
 
 74. createEventHub: 发布订阅
 
-75. observeMutations: 创建一个新的MutationObserver并为指定元素上的每个突变运行提供的回调
+75. observeMutations: 创建一个新的 MutationObserver 并为指定元素上的每个突变运行提供的回调
 
-76. renderElement: 在指定的DOM元素中呈现给定的DOM树
+76. renderElement: 在指定的 DOM 元素中呈现给定的 DOM 树
 
-77. runAsync: 通过使用Web Worker在单独的线程中运行函数，允许长时间运行的函数不阻塞UI
+77. runAsync: 通过使用 Web Worker 在单独的线程中运行函数，允许长时间运行的函数不阻塞 UI
 
 ## Date
 
-1. dayName: 从Date对象获取工作日的名称
+1. dayName: 从 Date 对象获取工作日的名称
 
 2. dayOfYear: 返回该日期在一年中是第多少天
 
-3. daysAgo: 计算从今天起n天前的日期，以字符串表示形式
+3. daysAgo: 计算从今天起 n 天前的日期，以字符串表示形式
 
-4. daysFromNow: 以字符串形式计算从今天起n天的日期
+4. daysFromNow: 以字符串形式计算从今天起 n 天的日期
 
 ## Math
 
