@@ -1,6 +1,6 @@
 # shank
 
-等同于`Array.prototype.splice()`, 但不是改变原数组, 而是返回一个修改后的新数组
+等同于`Array.prototype.splice()`, 但不是改变原数组, 而是返回一个修改后的新数组 。
 
 ## 技巧
 
