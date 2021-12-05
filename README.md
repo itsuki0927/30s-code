@@ -14,3 +14,4 @@
 8. [pull](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/pull.md): 改变原始数组, 过滤指定的值。
 9. [pullAtIndex](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/pull.md): 改变原始数组, 过滤指定下标的值。
 10. [takeRightUtil](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/takeRightUtil.md): 从数组的末端删除元素，直到提供的函数返回 true。返回被移除的元素。
+11. [sortedLastIndexBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/sortedLastIndexBy.md): 根据提供的迭代器函数，查找值插入数组以保持其排序顺序的最高索引。
