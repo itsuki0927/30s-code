@@ -18,3 +18,4 @@
 12. [takeRightWhile](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/takeRightWhile.md): 从数组的末端删除元素，直到提供的函数返回`false`。返回被移除的元素。
 13. [arrayToCSV](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/arrayToCSV.md): 将二维数组转换为 CSV 字符串。
 14. [averageBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/averageBy.md): 求平均值。
+15. [bifurcate](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/bifurcate.md): 根据过滤数组分为两组。
