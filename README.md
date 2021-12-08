@@ -20,3 +20,4 @@
 14. [averageBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/averageBy.md): 求平均值。
 15. [bifurcate](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/bifurcate.md): 根据过滤数组分为两组。
 16. [merge](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/merge.md): 从两个或多个对象的组合创建一个新对象。
+17. [orderWith](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/orderWith.md): 根据提供的顺序数组，按属性排序对象数组。
