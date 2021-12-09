@@ -22,3 +22,4 @@
 16. [merge](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/merge.md): 从两个或多个对象的组合创建一个新对象。
 17. [orderWith](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/orderWith.md): 根据提供的顺序数组，按属性排序对象数组。
 18. [partitionBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/partitionBy.md): 将 `fn` 应用于 `arr` 中的每个值，每次提供的函数返回新值时都会拆分它。
+19. [sumBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/sumBy.md): 使用提供的函数将每个元素映射到值后，计算数组的和。
