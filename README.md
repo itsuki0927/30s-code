@@ -25,3 +25,4 @@
 19. [sumBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/sumBy.md): 使用提供的函数将每个元素映射到值后，计算数组的和。
 20. [toPairs](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/toPairs.md): 获取对象/可迭代值的键值对二维数组。
 21. [differenceBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/differenceBy.md): 将提供的函数应用于两者的每个数组元素，返回两个数组之间的差异。
+22. [intersectionBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/intersectionBy.md): 将提供的函数应用于两个数组的每个数组元素后，返回两个数组中存在的元素。
