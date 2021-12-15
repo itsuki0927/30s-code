@@ -27,3 +27,4 @@
 21. [differenceBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/differenceBy.md): 将提供的函数应用于两者的每个数组元素，返回两个数组之间的差异。
 22. [intersectionBy](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/intersectionBy.md): 将提供的函数应用于两个数组的每个数组元素后，返回两个数组中存在的元素。
 23. [reduceSuccessive](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/reduceSuccessive.md): 将函数与累加器和数组中的每个元素（从左到右从左到右应用，返回连续减少值的数组。
+24. [castArray](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/castArray.md): 将值强制转换为数组。
