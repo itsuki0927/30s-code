@@ -13,7 +13,7 @@
 ```js
 const pull = (arr, ...args) => {
   const argsState = Array.isArray(args[0]) ? args[0] : args;
-  const pulled = arr.filter(v => !args.includes(v));
+  const pulled = arr.filter(v => !argsState.includes(v));
   arr.length = 0;
   pulled.forEach(v => arr.push(v));
 };
