@@ -37,3 +37,7 @@
 ## Date
 
 1. [formatDuration](https://github.com/itsuki0927/30s-code/blob/main/Js/Date/formatDuration.md): 返回给定毫秒数的可读格式。
+
+## String
+
+1. [capitalize](https://github.com/itsuki0927/30s-code/blob/main/Js/String/capitalize.md)
