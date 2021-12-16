@@ -33,3 +33,7 @@
 ## Function
 
 1. [pipeAsyncFunctions](https://github.com/itsuki0927/30s-code/blob/main/Js/Function/pipeAsyncFunctions.md): 异步函数的管道函数。
+
+## Date
+
+1. [formatDuration](https://github.com/itsuki0927/30s-code/blob/main/Js/Date/formatDuration.md): 返回给定毫秒数的可读格式。
