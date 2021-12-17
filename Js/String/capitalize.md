@@ -6,7 +6,7 @@
 
 - 使用`String.prototype.charAt(0)` 读取首个字符串。
 - 使用`String.prototype.toUpperCase()` 进行字符大写。
-- 使用`Sring.prototype.slice(1)` 读取剩余字符。
+- 使用`String.prototype.slice(1)` 读取剩余字符。
 - 使用模版引擎进行字符串拼接。
 
 ## code
