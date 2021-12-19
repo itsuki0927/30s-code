@@ -29,6 +29,7 @@
 23. [reduceSuccessive](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/reduceSuccessive.md): 将函数与累加器和数组中的每个元素（从左到右从左到右应用，返回连续减少值的数组。
 24. [castArray](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/castArray.md): 将值强制转换为数组。
 25. [isEmpty](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/isEmpty.md): 检测数组是否为空。
+26. [zip](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/zip.md): 创建一个元素数组，根据元素在原始数组中的位置进行分组。
 
 ## Function
 
