@@ -47,3 +47,4 @@
 
 1. [capitalize](https://github.com/itsuki0927/30s-code/blob/main/Js/String/capitalize.md): 字符串首字母大写。
 2. [isRelative](https://github.com/itsuki0927/30s-code/blob/main/Js/String/isRelative.md): 检查是否为相对路径。
+3. [consistsRepeatedSubstring](https://github.com/itsuki0927/30s-code/blob/main/Js/String/consistsRepeatedSubstring.md): 判断字符串是否由重复的字符串序列组成.
