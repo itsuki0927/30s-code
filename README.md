@@ -41,6 +41,7 @@
 
 1. [formatDuration](https://github.com/itsuki0927/30s-code/blob/main/Js/Date/formatDuration.md): 返回给定毫秒数的可读格式。
 2. [formatSeconds](https://github.com/itsuki0927/30s-code/blob/main/Js/Date/formatSeconds.md): 返回给定秒数的 ISO 格式。
+3. [suffixAmPm](https://github.com/itsuki0927/30s-code/blob/main/Js/Date/suffixAmPm.md): 给小时添加 am、pm 前缀。
 
 ## String
 
