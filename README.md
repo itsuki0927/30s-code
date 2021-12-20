@@ -36,6 +36,7 @@
 1. [pipeAsyncFunctions](https://github.com/itsuki0927/30s-code/blob/main/Js/Function/pipeAsyncFunctions.md): 异步函数的管道函数。
 2. [converge](https://github.com/itsuki0927/30s-code/blob/main/Js/Function/converge.md): 接受收敛函数和分支函数列表，并返回将每个分支函数应用于参数的函数，分支函数的结果作为参数传递给收敛函数。
 3. [deepMerge](https://github.com/itsuki0927/30s-code/blob/main/Js/Function/deepMerge.md): 使用一个函数处理两个对象中存在的键，深度合并两个对象。
+4. [rearg](https://github.com/itsuki0927/30s-code/blob/main/Js/Function/rearg.md): 创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列。
 
 ## Date
 
