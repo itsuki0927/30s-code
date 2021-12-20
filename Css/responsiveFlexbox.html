@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      ul,
+      li {
+        list-style-type: none;
+      }
+
+      ul {
+        --min: 100px;
+        --gap: 24px;
+
+        display: flex;
+        /* 如果当前列放不下了, 进行换行 */
+        flex-wrap: wrap;
+        /* 属性是用来设置网格行与列之间的间隙 */
+        gap: var(--gap);
+      }
+
+      li {
+        padding: 1rem;
+        background-color: #e0d4f6;
+        color: #675883;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        border-radius: 2px;
+        border: 1px dashed;
+      }
+
+      ul > * {
+        /* 每列以相同的比例进行缩放, 直到达到最小宽度 */
+        flex: 1 1 var(--min);
+      }
+    </style>
+  </head>
+  <body>
+    <ul>
+      <li>Item1</li>
+      <li>Item2</li>
+      <li>Item3</li>
+    </ul>
+  </body>
+</html>
