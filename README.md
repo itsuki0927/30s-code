@@ -31,6 +31,7 @@
 25. [isEmpty](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/isEmpty.md): 检测数组是否为空。
 26. [zip](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/zip.md): 创建一个元素数组，根据元素在原始数组中的位置进行分组。
 27. [cartesianProduct](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/cartesianProduct.md): 计算两个数组的笛卡尔乘积。
+28. [equals](https://github.com/itsuki0927/30s-code/blob/main/Js/Array/equals.md): 递归比较两个对象, 值是否相等。
 
 ## Function
 
