@@ -56,6 +56,10 @@
 3. [consistsRepeatedSubstring](https://github.com/itsuki0927/30s-code/blob/main/Js/String/consistsRepeatedSubstring.md): 判断字符串是否由重复的字符串序列组成.
 4. [isPalindrome](https://github.com/itsuki0927/30s-code/blob/main/Js/String/isPalindrome.md): 判断是否为回文字符串。
 
+## Math
+
+1. [digitize](https://github.com/itsuki0927/30s-code/blob/main/Js/Math/digitize.md): 将数字转换为数字数组，必要时删除其符号。
+
 ## Css
 
 1. [flex 响应式](https://github.com/itsuki0927/30s-code/blob/main/Css/responsiveFlexbox.html)
